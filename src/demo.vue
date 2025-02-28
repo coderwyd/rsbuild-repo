@@ -1,5 +1,5 @@
 <template>
-  <div>Demo</div>
+  <div style="background-color: aquamarine">Demo</div>
 </template>
 
 <script setup>
