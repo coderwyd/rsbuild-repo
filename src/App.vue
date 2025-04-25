@@ -1,26 +1,11 @@
 <template>
-  <div >
-    <div  style="
-            background: linear-gradient(
-              270deg,
-              rgba(0, 0, 0, 0.8) 1%,
-              rgba(0, 0, 0, 0.6) 97%
-            );
-          ">
-      test
-    </div>
-    <div style="
-            background: linear-gradient(270deg,rgba(0, 0, 0, 0.8) 1%,rgba(0, 0, 0, 0.6) 97%);
-          ">
-      test
-    </div>
+  <div>
+    <Demo></Demo>
   </div>
 </template>
 
-<script setup  >
- 
+<script setup>
+import Demo from './demo/index.vue'
 </script>
 
-<style scoped>    
-
-</style>
+<style scoped></style>

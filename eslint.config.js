@@ -1,3 +1,3 @@
-const { defineConfig } = require('@coderwyd/eslint-config')
+import  { defineConfig } from '@coderwyd/eslint-config'
 
-module.exports = defineConfig({})
+export default defineConfig({})
