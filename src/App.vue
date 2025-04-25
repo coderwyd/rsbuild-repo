@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import Demo from './demo/index.vue'
+import Demo from './cpn1.vue'
 </script>
 
 <style scoped></style>
